@@ -1,11 +1,11 @@
 I have uploaded this project to HEROKU and can be run and tested LIVE:
 
-https://gig-test.herokuapp.com
+https://users-management.herokuapp.com
 
 
 TO INSTALL AND RUN LOCAL:	
 
-In the Route Gig Test (this route)
+In the this route
 
 NPM INSTALL
 
@@ -13,7 +13,7 @@ Then execute "nodemon index.js" in the route Gig Test/server
 
 Server will run on port 5000 --> http://localhost:5000/api/posts
 
-In the Route Gig Test/Client
+In the route /Client
 
 NPM INSTALL 
 
